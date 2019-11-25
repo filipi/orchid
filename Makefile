@@ -1,0 +1,3 @@
+clean:
+	@echo Removing emacs ~ended backup files...
+	@rm -rfv *~
