@@ -8,7 +8,11 @@
         "robicch/jquery-gantt": "^6.3",
         "tinymce/tinymce": "^5.2",
         "components/three.js": "^0.0.79",
-        "oro/jsplumb": "^1.7"
+        "oro/jsplumb": "^1.7",
+        "softcommerce/jquery-flot": "^1.0",
+        "nnnick/chartjs": "^2.9",
+        "twitter/bootstrap": "^4.4",
+        "fortawesome/font-awesome": "^5.12"
     },
     "license": "MIT",
     "authors": [
