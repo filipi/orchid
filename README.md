@@ -1,5 +1,8 @@
 
-This project aims to be a replacement to the ONDE fLame Work, with one the main intends in it being be a little less lame. Thus it is still not being developed by experts, some avises from experts will certaing be implemented.
+This project aims to be a replacement to the ONDE fLame Work, with one the main
+intends in it being be a little less lame. Although it is still been not being
+developed by non experts, some advises given by actual experts will certainly
+be heard and we will try to implement those.
 
  ## Notes
 
@@ -27,15 +30,14 @@ This project aims to be a replacement to the ONDE fLame Work, with one the main 
 
  * responsive interface
  * composer to manage php dependncies
- * some sort of javascript and web assets dependency manager (package.json kind of tool)
+ * some sort of javascript and web assets dependency manager (package.json
+   kind of tool)
  *
  * responsive interface
  * composer to manage php dependncies
- * some sort of javascript and web assets dependency manager (package.json kind of tool) -- Bower perhaps
+ * some sort of javascript and web assets dependency manager (package.json
+   kind of tool) -- Bower perhaps
  * bower register, bower unregister (using git repository)
- *
-
-
 
  Good portuguese tutorial on Websockets with PHP
  http://rafaelcouto.com.br/chat-simples-utilizando-websocket-vue-js-e-php/
