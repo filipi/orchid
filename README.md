@@ -1,5 +1,6 @@
 
-This project aims to be a replacement to the ONDE fLame Work, with one the main
+This project aims to be a replacement to the
+[ONDE fLame Work](https://github.com/filipi/onde), with one the main
 intends in it being be a little less lame. Although it is still been not being
 developed by non experts, some advises given by actual experts will certainly
 be heard and we will try to implement those.
