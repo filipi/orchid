@@ -1,0 +1,21 @@
+{
+    "name": "filipi/orchid",
+    "description": "A quick and dirty PHP prototyping tool",
+    "type": "project",
+    "require": {
+        "jxlwqq/code-mirror": "^1.0",
+        "fullcalendar/fullcalendar": "^3.10",
+        "robicch/jquery-gantt": "^6.3",
+        "tinymce/tinymce": "^5.2",
+        "components/three.js": "^0.0.79",
+        "oro/jsplumb": "^1.7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Filipi Vianna",
+            "email": "filipi@pucrs.br"
+        }
+    ],
+    "minimum-stability": "stable"
+}

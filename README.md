@@ -32,11 +32,6 @@ be heard and we will try to implement those.
  * composer to manage php dependncies
  * some sort of javascript and web assets dependency manager (package.json
    kind of tool)
- *
- * responsive interface
- * composer to manage php dependncies
- * some sort of javascript and web assets dependency manager (package.json
-   kind of tool) -- Bower perhaps
  * bower register, bower unregister (using git repository)
 
  Good portuguese tutorial on Websockets with PHP
